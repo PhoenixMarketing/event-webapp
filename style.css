@@ -1,0 +1,16 @@
+/* background-image:url("./images/woods.png");*/
+
+
+
+/*BOXES*/
+
+.blackbox{
+    border: 2px solid red;
+	
+	background-color: lightgray;
+}
+
+
+.maincolumn {
+	height: auto;
+}
