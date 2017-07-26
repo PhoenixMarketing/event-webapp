@@ -19,6 +19,11 @@
 
 			<hr>
 
+			<div class="row"><!-- name of App -->
+				<div class="col-sm-12 blackbox" style="text-align: center">
+					<h1>Sort by: _____________________________</h1>
+				</div>
+			</div><!-- closes sort by -->
 
 			<!-- MAIN CONTENT -->
 

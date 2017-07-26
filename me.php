@@ -33,7 +33,7 @@
 				<!-- MAIN LEFT COLUMN -->
 
 				<div class="col-sm-7 blackbox maincolumn"><!-- main left column -->
-					<p>About Me</p>					
+					<p>About Me</p>
 				</div><!-- main left column -->
 
 
@@ -44,7 +44,7 @@
 				<!-- MAIN RIGHT COLUMN -->
 
 				<div class="col-sm-5 blackbox maincolumn"><!-- main right column -->
-					<p>Special Offers</p>	
+					<p>Special Offers</p>
 				</div><!-- main right column -->
 
 
