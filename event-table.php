@@ -15,7 +15,7 @@ try {
 	$ad = $_SESSION['sort']['ad'];
 
 	$sql = "SELECT *
-	FROM `books`
+	FROM `events`
 	ORDER BY `{$by}` {$ad}";
 
 	$statement = $objDb->query($sql);
